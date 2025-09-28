@@ -17,7 +17,8 @@
 - ジャンプワイヤー（ブレッドボード用）
 - 半田一式
 - keyswitch ピッチ変換基盤<br>
-  ![image](./images/image2.png)
+ ![アプリのスクリーンショット](./images/image1.png)  
+
   
 
 
