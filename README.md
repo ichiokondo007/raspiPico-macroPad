@@ -10,6 +10,7 @@
 
 ## 🔴用意するもの
 - Raspberry Pi Pico<br>
+  ![アプリのスクリーンショット](./images/image3.png)  
 - Switch Key<br> 
 - keycap<br>
 - ブレッドボード<br>
