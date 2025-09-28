@@ -34,7 +34,8 @@ python3 -m pip install --user qmk
 ~/.local/bin/qmk setup
 cd  ~/qmk_
 ```
--　qmk setupで~/qmk_firmwareにインストールさせる（githubからcloneされる）
+-　qmk setupで~/qmk_firmwareにインストールさせる（githubからcloneされる）  
+![アプリのスクリーンショット](./images/image1.png)  
 
 
 ### 2) コンパイルしてPICOに書込み
