@@ -27,12 +27,12 @@
 ## 🔴作業手順
 ### 1) QMKのコンパイル環境作成
   ```bash🐚
-  sudo apt update
-  sudo apt install -y git python3 python3-pip gcc build-essential
-  python3 -m pip install --user qmk
-  which qmk
+  $ sudo apt update
+  $ sudo apt install -y git python3 python3-pip gcc build-essential
+  $ python3 -m pip install --user qmk
+  $ which qmk
     /home/kd/.local/bin/qmk
-  qmk setup
+  $ qmk setup
   ```
   
 - qmkが正常にインストールされたか「qmk doctor」で確認。「QMK is ready to go」確認。
