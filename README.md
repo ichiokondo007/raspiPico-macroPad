@@ -37,7 +37,8 @@
   cd  ~/qmk_
   ```
 
-- qmk setupで~/qmk_firmwareにインストールさせる（githubからcloneされる）  
+- qmk setupで~/qmk_firmware作成。（githubからcloneされる）
+- qmkが正常にインストールされたか「qmk doctor」で確認。「QMK is ready to go」確認。
   ![アプリのスクリーンショット](./images/image1.png)  
 
 
