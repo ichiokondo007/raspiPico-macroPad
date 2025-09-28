@@ -29,13 +29,13 @@
 - QMK自体C言語でgccでのコンパイルが必要。下記例はLinux POP-OS(Ubuntu系）上でのインスト-ル手順（PackageManager=apt)
 - qmk環境のインストールはPython pipで一式インストール可能。
 
-```bash
-sudo apt update
-sudo apt install -y git python3 python3-pip gcc build-essential
-python3 -m pip install --user qmk
-~/.local/bin/qmk setup
-cd  ~/qmk_
-```
+  ```bash
+  sudo apt update
+  sudo apt install -y git python3 python3-pip gcc build-essential
+  python3 -m pip install --user qmk
+  ~/.local/bin/qmk setup
+  cd  ~/qmk_
+  ```
 
 - qmk setupで~/qmk_firmwareにインストールさせる（githubからcloneされる）  
   ![アプリのスクリーンショット](./images/image1.png)  
