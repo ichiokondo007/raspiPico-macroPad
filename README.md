@@ -22,7 +22,6 @@
   | KeySwitch ピッチ変換基盤| 1 |あると便利  |
     
   ![アプリのスクリーンショット](./images/image6.png)
-  ![アプリのスクリーンショット](./images/image7.png)
   ![アプリのスクリーンショット](./images/image2.png)  
 
 ## 🖥️ 用語説明/参考資料
